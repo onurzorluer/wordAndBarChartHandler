@@ -1,2 +1,4 @@
 # wordAndBarChartHandler
-JFreeChart ve Apache POI kütüphaneleri kullanılarak hazırlanmış, Bar Chart ve bunu da içeren bir Word dosyası oluşturan Java projesi.
+Author:Onur Zorluer
+
+JFreeChart ve Apache POI kütüphaneleri kullanılarak hazırlanmış, Inputlara göre Bar Chart ve bunu içeren bir Word dosyası oluşturabildiğimiz Java projesi.
